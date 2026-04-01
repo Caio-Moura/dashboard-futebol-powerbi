@@ -35,3 +35,7 @@ com foco em métricas de desempenho ofensivo por jogador e por time.
 |---|---|
 | `total de gols.pbix` | Dashboard no Power BI |
 | `projeto_futebol_powerbi.xlsx` | Base de dados em Excel |
+
+## Preview
+
+![Dashboard Futebol Power BI](images/dashboard.png)

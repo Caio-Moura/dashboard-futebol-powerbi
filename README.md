@@ -38,4 +38,4 @@ com foco em métricas de desempenho ofensivo por jogador e por time.
 
 ## Preview
 
-![Dashboard Futebol Power BI](images/dashboard.png)
+![Dashboard Futebol Power BI](dashboard.png)
